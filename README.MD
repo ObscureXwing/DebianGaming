@@ -9,6 +9,6 @@ Special thanks to the Etienne Juvigny (TK-Glitch) for the official permission to
 
 [TK-Glitch Profile On Github](https://github.com/Tk-Glitch)
 
-[Wine-TKG-GIT Wine Build System](https://github.com/Frogging-Family/wine-tkg-git)
+[Wine Build System](https://github.com/Frogging-Family/wine-tkg-git)
 
-[Linux-TKG Kernels Build System](https://github.com/Frogging-Family/linux-tkg)
+[Kernels Build System](https://github.com/Frogging-Family/linux-tkg)
