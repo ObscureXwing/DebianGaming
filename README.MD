@@ -1,4 +1,4 @@
-# Easy to install Wine Builds for gamers
+# Easy to install Wine Builds & Kernels for Debian gamers
 
 #### From here you can download prepared for installation protonified Wine Builds & Kernels with F-Sync and Futex 2 support for GNU/Linux Debian !
 #### What does it mean ? Using this GitHub repository you can always get the newest version of Wine with patches to support the newest games like Mortal Kombat 11 or Doom Eternal! and it's all for GNU / Linux Debian, and you don't need to compile anything!
